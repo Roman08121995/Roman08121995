@@ -14,16 +14,16 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 
 <img align="left" alt="GIF" src="techstack.gif" width="260px">
 
-### &nbsp; 🛠️ Technical Skills
+### &nbsp; 🛠️ **Technical Skills & Tools**
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Languages**: Python, JavaScript (Node.js, TypeScript)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🚀 **Frameworks**: FastAPI, Django, Flask, Scrapy, React/Next.js, Vue/Nuxt.js
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🧠 **AI & NLP**: OpenAI, GPT-4, Gemini, LangChain, LangGraph
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔄 **Automation Platforms**: n8n, Make.com, Zapier, Retool
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🗄️ **Data & Databases**: PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🕸️ **Web Scraping**: Selenium, Playwright, Puppeteer, Multilogin, Zyte Platform
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ☁️ **DevOps & Cloud**: AWS (EC2, S3, Lambda, DynamoDB), GCP (Cloud Run, Cloud SQL, BigQuery), Docker, GitHub Actions, Jenkins, CI/CD
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🛢️ **Other Expertise**: ETL pipelines, high-load systems, proxy management, bot detection avoidance, reverse engineering, Telegram/Slack bots
 &nbsp;
 <table align="center">
   <tr>
@@ -192,21 +192,21 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Incredibledev777&theme=blueberry&border=61dafb&hide_border=true" alt="Incredibledev777" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Roman08121995&theme=blueberry&border=61dafb&hide_border=true" alt="Roman08121995" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Incredibledev777&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Roman08121995&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incredibledev777&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman08121995&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Incredibledev777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roman08121995&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -214,12 +214,12 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Incredibledev777/Footprints" title="Footprints"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Incredibledev777&repo=Footprints&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Incredibledev777/Archeology" title="Archeology"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Incredibledev777&repo=Archeology&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Roman08121995/Footprints" title="Footprints"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Roman08121995&repo=Footprints&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Roman08121995/Archeology" title="Archeology"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Roman08121995&repo=Archeology&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/Incredibledev777?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Roman08121995?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <!-- ## Tools -->
@@ -264,7 +264,7 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 
 
 <p align="center">
-<a href="https://github.com/Incredibledev777?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Incredibledev777&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/Roman08121995?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Roman08121995&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 <p align="center">
