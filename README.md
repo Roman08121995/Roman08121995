@@ -16,14 +16,15 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 
 ### &nbsp; 🛠️ **Technical Skills & Tools**
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Languages**: Python, JavaScript (Node.js, TypeScript)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🚀 **Frameworks**: FastAPI, Django, Flask, Scrapy, React/Next.js, Vue/Nuxt.js
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🧠 **AI & NLP**: OpenAI, GPT-4, Gemini, LangChain, LangGraph
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔄 **Automation Platforms**: n8n, Make.com, Zapier, Retool
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🗄️ **Data & Databases**: PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🕸️ **Web Scraping**: Selenium, Playwright, Puppeteer, Multilogin, Zyte Platform
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ☁️ **DevOps & Cloud**: AWS (EC2, S3, Lambda, DynamoDB), GCP (Cloud Run, Cloud SQL, BigQuery), Docker, GitHub Actions, Jenkins, CI/CD
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🛢️ **Other Expertise**: ETL pipelines, high-load systems, proxy management, bot detection avoidance, reverse engineering, Telegram/Slack bots
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Languages**: Python, JavaScript (Node.js, TypeScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🚀 **Frameworks**: FastAPI, Django, Flask, Scrapy, React, Next.js, Vue, Nuxt.js  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🧠 **AI & NLP**: OpenAI, GPT-4, Gemini, LangChain, LangGraph  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔄 **Automation Platforms**: n8n, Make.com, Zapier, Retool  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🗄️ **Data & Databases**: PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🕸️ **Web Scraping**: Selenium, Playwright, Puppeteer, Multilogin, Zyte Platform  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ☁️ **DevOps & Cloud**: AWS (EC2, S3, Lambda, DynamoDB), GCP (Cloud Run, Cloud SQL, BigQuery), Docker, GitHub Actions, Jenkins, CI/CD  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🛠️ **Other Expertise**: ETL pipelines, high-load systems, proxy management, bot detection avoidance, reverse engineering, Telegram/Slack bots  
+
 &nbsp;
 <table align="center">
   <tr>
