@@ -189,27 +189,22 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 ## Github Stats
 
  <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=CodeMaster0099&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeMaster0099&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Roman08121995&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roman08121995&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster0099&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=4b5563&hide_border=true&theme=prussian&show=reviews,prs_merged,prs_merged_percentage" alt="Sunshine's GitHub stats"/>
-  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeMaster0099&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roman08121995&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=4b5563&hide_border=true&theme=prussian&show=reviews,prs_merged,prs_merged_percentage" alt="Sunshine's GitHub stats"/>
+  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Roman08121995&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
 </p> 
 
 <br />
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=CodeMaster0099&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster0099&rank_icon=github&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/>
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster0099&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/> -->
-        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster0099&layout=compact&theme=prussian&show_icons=true&hide_border=true&exclude_repo=Soruko"/>
+    <a href="https://github-readme-stats.vercel.app/api?username=Roman08121995&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=Roman08121995&rank_icon=github&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/>
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=Roman08121995&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/> -->
+        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman08121995&layout=compact&theme=prussian&show_icons=true&hide_border=true&exclude_repo=Soruko"/>
     </a>
 </p>
 
-
-
-<p align="center">
-<a href="https://github.com/Roman08121995?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Roman08121995&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
-</p>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
